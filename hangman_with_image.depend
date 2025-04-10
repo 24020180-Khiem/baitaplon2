@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1743482885 source:c:\users\admin\desktop\c++ homework\hangman_with_image\main.cpp
+1744245886 source:c:\users\admin\desktop\c++ homework\hangman_with_image\main.cpp
 	<SDL.h>
 	<SDL_image.h>
 	<iostream>
@@ -9,6 +9,6 @@
 	<random>
 	<fstream>
 	<SDL_ttf.h>
-	<limits>
 	<cstdlib>
+	<SDL_mixer.h>
 
